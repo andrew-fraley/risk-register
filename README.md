@@ -42,10 +42,9 @@ For small and mid-size businesses — particularly those subject to the **FTC Sa
 risk-register/
 ├── README.md          
 ├── overview.md        
-├── artifacts/
-│   └── risk-register.csv       
 └── examples/
-    └── risk-register.md        
+    └── risk-register.csv       
+    └── risk-register.md           
 ```
 
 ---
